@@ -1,2 +1,4 @@
 # fc_ubuntu-install2
-참고: https://jeongwookie.github.io/2019/05/21/190521-ubuntu-install-usb/
+
+- 우분투 ISO 파일 다운받기
+  - [Download Ubuntu 18.04.3 LTS VERSION](https://ubuntu.com/download/desktop)
